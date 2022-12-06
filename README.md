@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gaurav0704/](https://www.linkedin.com/in/gaurav0704/)
 
-- 📝 I regularly explore [Github](Github)
+- 📝 I regularly explore [Github](https://github.com/codinggaurav7)
 
 - 💬 Ask me about **Frontend devlopment,Python,C++**
 
