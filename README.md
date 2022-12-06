@@ -26,7 +26,7 @@
 <a href="https://www.facebook.com/profile.php?id=100021292755671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100021292755671" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gaurav_gupta.music/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gaurav_gupta.music/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@gauravguptamusic363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@gauravguptamusic363" height="30" width="40" /></a>
-<a href="/https://www.codechef.com/users/gaurav_0704" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/gaurav_0704" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/gaurav_0704" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/gaurav_0704" height="30" width="40" /></a>
 <a href="https://leetcode.com/gaurav07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gaurav07/" height="30" width="40" /></a>
 </p>
 
